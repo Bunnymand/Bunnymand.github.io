@@ -1,10 +1,10 @@
 # Bunnymand.github.io
 
-## What should I do with my project ?
+## BUNNYMEN TRIBUTE PAGE
 
 [Rescue](http://www.bunnymen.com/)
 
-Can i do **bold**
+**Dark Side takes over**
 
 ![And add a picture of the Bunnymen](http://www.bunnymen.com/wp-content/uploads/2012/04/bunnymen-mail.jpg)
 
